@@ -1,0 +1,24 @@
+[0329/161419.835:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Coldmay\settings.dat: Access is denied. (0x5)
+[0329/161419.838:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0329/161419.842:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Coldmay\settings.dat: Access is denied. (0x5)
+[0329/161419.923:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0330/141821.482:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Coldmay\settings.dat: Access is denied. (0x5)
+[0330/141821.482:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0330/141821.482:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Coldmay\settings.dat: Access is denied. (0x5)
+[0330/141823.485:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0331/145755.226:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Coldmay\settings.dat: Access is denied. (0x5)
+[0331/145755.230:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0331/145755.232:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Coldmay\settings.dat: Access is denied. (0x5)
+[0331/145755.301:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0331/162711.424:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Coldmay\settings.dat: Access is denied. (0x5)
+[0331/162711.471:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0331/162711.471:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Coldmay\settings.dat: Access is denied. (0x5)
+[0331/162712.002:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0402/213940.873:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Coldmay\settings.dat: Access is denied. (0x5)
+[0402/213940.889:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0402/213940.891:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Coldmay\settings.dat: Access is denied. (0x5)
+[0402/213940.997:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0403/171532.543:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Coldmay\settings.dat: Access is denied. (0x5)
+[0403/171532.574:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0403/171532.576:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Coldmay\settings.dat: Access is denied. (0x5)
+[0403/171532.666:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
